@@ -15,3 +15,5 @@ Pull requests marked as spam will not be entitled for a T-shirt.
 Programs should strictly be in python and should be based on openCv.
 
 Fork this repository. Clone your fork down to your local machine. Create a New Pull Request from your forked repository (Click the New Pull Request button located at the top of your repo). Wait for your PR review and merge approval! Star this repository if you had fun! Thanks!
+
+![](./python.png)
